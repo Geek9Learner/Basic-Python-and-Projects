@@ -1,0 +1,5 @@
+Hi, Myself Vikash Kumar.
+Currently i am writing a text file.
+And using python File I/OHi, Myself Vikash Kumar.
+Currently i am writing a text file.
+And using python File I/O
